@@ -8,4 +8,4 @@ The files contain code for testing an existing math library, which I have worked
 
 We wanted to understand the main differences and what improvements happened after applying each one of those testing ways.
 
-**Just so you know**, the code in the file under the name tests is our main contribution to this project.
+**Just so you know**, the code in the file under the name **test** is our main contribution to this project.
